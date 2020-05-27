@@ -1,0 +1,13 @@
+SYSTEM = Nb - Mo - Ta - Ti - W SQS
+ICHARG = 2
+ENCUT = 600
+ISMEAR = 1
+SIGMA = 0.2
+NCORE = 4
+IBRION = 2
+ISIF = 3
+NSW = 20
+ISYM = 0
+IALGO = 38
+GGA = PS
+LREAL = Auto
