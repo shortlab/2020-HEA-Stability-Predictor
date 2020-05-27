@@ -1,0 +1,14 @@
+Image4-1 Information
+
+64 Resolution
+Pixel Size 0.492 µm
+31.471 µm length
+TC 2.00, 30.0 kV, 0.0 µA
+1000 mSec Point Dwell
+Acquired 2/28/2020 at 10:00 pm
+Stage Location:
+ X:1.143mm, Y:-2.247mm, Z:25.0mm, T:0.0, R:346.5
+Magnification:2000
+From 0.000 µm to 30.980 µm
+Atmosphere: Vacuum
+SEM beam source
